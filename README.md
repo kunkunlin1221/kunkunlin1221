@@ -5,8 +5,8 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkunkunlin1221&label=VISITORS&labelColor=%23dce775&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkunkunlin1221)
 
 - 7+ years of work experience as a CV/AI engineer and researcher
-- Pursuing PhD in Computer Science and Information Engineering @ [National Taiwan University](https://www.csie.ntu.edu.tw/).  
-- Conducting research on **Deep Learning** and **Computer Vision** in [AIMM](https://aimm.cmlab.csie.ntu.edu.tw) group of [CMLab](https://cmlab.csie.ntu.edu.tw). 
+- Pursuing PhD in Computer Science and Information Engineering @ [National Taiwan University](https://www.csie.ntu.edu.tw/)
+- Conducting research on **Deep Learning** and **Computer Vision** in [AIMM](https://aimm.cmlab.csie.ntu.edu.tw) group of [CMLab](https://cmlab.csie.ntu.edu.tw)
 
 
 ## Areas of Expertise
